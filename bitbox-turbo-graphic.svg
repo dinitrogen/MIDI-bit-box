@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.71249mm"
+   height="88.712494mm"
+   viewBox="0 0 108.71249 88.712494"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bitbox-turbo-graphic.svg"
+   inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\bitbox-turbo-graphic.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="-10.538259"
+     inkscape:cy="41.762728"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect29938"
+       is_visible="true"
+       lpeversion="1"
+       yy="true"
+       xx="true"
+       bendpath1="M 39.070083,67.724839 82.709896,61.425465"
+       bendpath2="M 82.709896,61.838539 V 86.538944"
+       bendpath3="m 39.070083,82.821281 43.639813,3.9242"
+       bendpath4="M 39.070083,67.724839 V 82.821281"
+       bendpath1-nodetypes="cc"
+       bendpath3-nodetypes="cc"
+       bendpath2-nodetypes="cc" />
+    <style
+       id="style31629">.cls-1{fill:#231f20;}</style>
+    <rect
+       x="48.570563"
+       y="43.173834"
+       width="634.11569"
+       height="129.5215"
+       id="rect3531" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.694757,-4.0164208)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2202"
+       width="107.71249"
+       height="87.712494"
+       x="7.194757"
+       y="4.5164208"
+       rx="2.9017828"
+       inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\rect2202.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <path
+       style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2408"
+       sodipodi:type="arc"
+       sodipodi:cx="60.193336"
+       sodipodi:cy="48.214203"
+       sodipodi:rx="15.926602"
+       sodipodi:ry="15.926602"
+       sodipodi:start="5.5312102"
+       sodipodi:end="5.5307564"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 71.825189,37.335018 A 15.926602,15.926602 0 0 1 71.073841,59.844821 15.926602,15.926602 0 0 1 48.563952,59.096027 15.926602,15.926602 0 0 1 49.310193,36.586053 15.926602,15.926602 0 0 1 71.820251,37.329741" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:0.264583"
+       x="69.552811"
+       y="21.304434"
+       id="text4712"><tspan
+         sodipodi:role="line"
+         id="tspan4710"
+         style="font-size:16.9333px;stroke-width:0.264583"
+         x="69.552811"
+         y="21.304434">bit box</tspan></text>
+    <g
+       aria-label="TURBO"
+       id="text10310"
+       style="font-size:19.7556px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ff0000;stroke:#ff0000;stroke-width:0.265"
+       inkscape:path-effect="#path-effect29938"
+       transform="matrix(1,0,0,0.76701308,0.10326847,16.435555)">
+      <path
+         d="m 46.472034,68.850545 c -0.839553,0.09374 -1.679954,0.187141 -2.521202,0.280073 0.04328,1.089573 -0.01494,12.936958 -0.172785,14.033154 -0.749618,-0.06605 -1.499263,-0.131862 -2.248935,-0.19737 0.04103,-0.315669 0.148826,-13.271535 0.140449,-13.58524 -0.842781,0.09199 -1.686409,0.183394 -2.530885,0.274097 -0.006,-0.661833 -0.03549,-1.33261 -0.115683,-1.992432 2.406608,-0.338779 4.813506,-0.685184 7.220693,-1.035443 0.123283,0.738517 0.190584,1.485874 0.228348,2.223161 z"
+         style="font-weight:bold"
+         id="path29909"
+         inkscape:original-d="m 46.295154,69.721621 h -2.488743 v 13.09966 h -2.247585 v -13.09966 h -2.488743 v -1.996782 h 7.225071 z" />
+      <path
+         d="m 55.197195,82.428241 c -0.107102,1.158253 -0.695965,1.691244 -1.614576,1.608955 -1.598454,-0.143189 -3.197033,-0.28637 -4.795739,-0.429001 -0.918486,-0.08194 -1.269126,-0.650591 -1.189574,-1.687236 0.149181,-1.943992 0.131273,-13.488557 -0.206248,-15.460797 0.752073,-0.10978 1.504175,-0.219876 2.256305,-0.330176 0.40639,2.291399 0.40538,13.040264 0.271501,15.289391 1.02252,0.05895 2.043734,0.118051 3.06364,0.177209 0.170286,-2.584702 0.182556,-13.272551 -0.29754,-15.912859 0.752206,-0.110636 1.504441,-0.221319 2.256703,-0.331935 0.524082,2.87056 0.515627,14.263596 0.255528,17.076449 z"
+         style="font-weight:bold"
+         id="path29911"
+         inkscape:original-d="m 54.996107,81.441862 q 0,1.379419 -1.389066,1.379419 h -4.794206 q -1.369773,0 -1.369773,-1.379419 V 67.724839 h 2.257232 v 13.157538 h 3.038581 V 67.724839 h 2.257232 z" />
+      <path
+         d="m 64.512533,85.01021 c -0.784471,-0.06894 -1.568973,-0.138174 -2.353505,-0.207639 -0.274182,-2.995278 -1.316722,-6.716399 -2.067047,-9.464582 0,0 2.43e-4,-0.593486 -6.5e-5,-1.781781 0.741208,-0.02937 1.480926,-0.05859 2.219154,-0.08764 -5.25e-4,-1.98014 0.0058,-4.459919 -0.139764,-6.471696 -0.947805,0.10742 -1.89669,0.21541 -2.846656,0.323783 0.225925,3.031398 0.237186,14.150008 -0.281404,17.204987 -0.752457,-0.0671 -1.504942,-0.134328 -2.257455,-0.201637 0.546165,-3.17447 0.551407,-16.034099 -0.03092,-19.238632 1.996509,-0.293071 3.993216,-0.585016 5.990122,-0.873682 0.900007,-0.130102 1.488875,0.453813 1.608425,1.761002 0.214459,2.344935 0.196693,5.323986 0.19664,7.620848 -2e-5,0.878049 -0.214193,1.449198 -0.642872,1.71183 -0.2309,0.136334 -0.716412,0.209281 -1.461267,0.221398 0.751656,2.772123 1.773178,6.465827 2.066618,9.483444 z"
+         style="font-weight:bold"
+         id="path29913"
+         inkscape:original-d="M 64.536287,82.821281 H 62.182593 L 59.69385,75.808429 q 0,0 0,-1.360126 h 2.218647 v -4.78456 H 59.066842 V 82.821281 H 56.80961 V 67.724839 h 5.990345 q 1.360127,0 1.360127,1.389066 v 5.488738 q 0,0.954983 -0.646301,1.234725 -0.347267,0.144694 -1.466236,0.144694 z" />
+      <path
+         d="m 73.487318,83.63841 c -0.08539,1.418107 -0.653461,2.089521 -1.568217,2.012015 -2.008915,-0.170211 -4.01803,-0.343677 -6.027344,-0.519323 0.535674,-3.496626 0.542761,-17.808619 -0.03066,-21.366881 1.997113,-0.284673 3.994424,-0.56495 5.991934,-0.838678 0.889296,-0.121864 1.452611,0.537227 1.545609,1.97732 0.124584,1.929204 0.123067,4.060375 0.117388,5.949458 -0.0023,0.780054 -0.162678,1.391846 -0.478233,1.829707 -0.04422,0.05983 -0.429174,0.450859 -1.154898,1.150867 0.749612,0.675158 1.146115,1.057366 1.190223,1.124171 0.34019,0.447742 0.511474,1.072639 0.514505,1.868612 0.0081,2.11471 0.02931,4.660013 -0.100304,6.812732 z M 71.309941,71.394977 c 0.0024,-1.734924 0.0011,-3.696288 -0.09515,-5.461819 -0.934663,0.101749 -1.870373,0.204652 -2.80713,0.308527 0.126066,2.023104 0.118937,4.431564 0.117514,6.417267 0.571278,-0.02508 1.141657,-0.04998 1.711136,-0.07466 0.357796,-0.391784 0.71628,-0.788797 1.073635,-1.189314 z m -0.02708,11.317488 c 0.100721,-1.999478 0.08586,-4.413159 0.08171,-6.384536 -0.363601,-0.358716 -0.727973,-0.714154 -1.091728,-1.065001 -0.581859,0.0096 -1.164681,0.01924 -1.748464,0.02903 0.0013,2.162839 0.02257,5.062513 -0.104827,7.255857 0.955596,0.05524 1.910033,0.110146 2.863311,0.164646 z"
+         style="font-weight:bold"
+         id="path29915"
+         inkscape:original-d="m 73.324056,81.441862 q 0,1.379419 -1.379419,1.379419 H 65.915706 V 67.724839 h 5.990346 q 1.340834,0 1.340834,1.389066 v 3.887454 q 0,0.771703 -0.482315,1.19614 -0.06752,0.05788 -1.176847,0.742764 1.147909,0.704179 1.215433,0.771703 0.520899,0.453376 0.520899,1.244372 z m -2.324755,-8.16076 v -3.655944 h -2.826363 v 4.427647 h 1.736332 z m 0.05788,7.63986 V 76.618718 L 69.947855,75.8856 h -1.774917 v 5.035362 z" />
+      <path
+         d="m 82.770712,84.214264 c -0.0269,1.537705 -0.550194,2.275568 -1.460985,2.204158 -1.632341,-0.127983 -3.264813,-0.259222 -4.897418,-0.39314 -0.902152,-0.074 -1.241445,-0.84188 -1.165132,-2.274734 0.09029,-1.695227 0.09035,-17.285072 -0.01089,-19.056562 -0.08327,-1.45714 0.24894,-2.259006 1.152492,-2.377764 1.634279,-0.214803 3.268692,-0.424133 4.903238,-0.626815 0.911728,-0.113053 1.442152,0.620573 1.474666,2.190385 0.14366,6.936019 0.123772,13.490002 0.004,20.334472 z m -2.207813,-1.047538 c 0.0885,-6.092212 0.104542,-11.980506 -0.0036,-18.145296 -1.016027,0.100192 -2.033332,0.202497 -3.051917,0.306675 0.184522,5.996606 0.169393,11.739701 0.0063,17.673615 -0.03817,-0.0021 3.087355,0.167095 3.049182,0.165006 z"
+         style="font-weight:bold"
+         id="path29917"
+         inkscape:original-d="m 82.709896,81.441862 q 0,1.379419 -1.369773,1.379419 h -4.900315 q -1.340834,0 -1.340834,-1.379419 V 69.113905 q 0,-1.389066 1.340834,-1.389066 h 4.900315 q 1.369773,0 1.369773,1.389066 z M 80.452664,80.882377 V 69.663743 h -3.096459 v 11.218634 z" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.51622;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 13.792236,9.8416371 H 66.971095"
+       id="path22844" />
+    <path
+       style="fill:none;stroke:#ffa500;stroke-width:1.49342;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.379309,12.487472 H 66.971094"
+       id="path22844-9" />
+    <path
+       style="fill:none;stroke:#ffe700;stroke-width:1.45972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 17.682098,15.133307 H 66.971094"
+       id="path22844-9-6" />
+    <path
+       style="fill:none;stroke:#00ca00;stroke-width:1.42433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.042969,17.779142 H 66.971094"
+       id="path22844-9-6-2" />
+    <path
+       style="fill:none;stroke:#0067ff;stroke-width:1.37891;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.987699,20.424977 H 66.971094"
+       id="path22844-9-6-2-3"
+       inkscape:transform-center-x="5.5851933"
+       inkscape:transform-center-y="-3.8209319" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 12.185674,50.085188 h 5.886301 v -6.299375 h 6.918984 v 11.049722 h 6.918984 V 43.476007 h 6.505911 v 6.196105 h 5.473229"
+       id="path30171" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.217005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.559387,39.253033 3.299497,-0.769055 -0.499887,-2.144676 2.062188,-0.48066 1.307395,5.609148 1.567263,-0.365302 -2.13413,-9.156109 1.897212,-0.442207 0.788282,3.381986 1.732237,-0.403754 0.865188,3.711937 1.732236,-0.403754 -2.076451,-8.908648 1.814725,-0.422981 2.807054,12.043172 1.9797,-0.461433 -1.134359,-4.866762 1.64975,-0.384528 -0.711375,-3.052035 1.649749,-0.384528 -1.211262,-5.196711 1.897207,-0.442206 3.056996,13.115508 1.897212,-0.442209 -0.865182,-3.711938 1.814721,-0.422979 -0.90364,-3.87691 1.40229,-0.32685 -0.90364,-3.876913 1.732227,-0.403753 1.51888,6.516513 2.22717,-0.519114"
+       id="path30173" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.22467px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.720467,58.150612 3.388639,0.905736 0.588729,-2.202618 2.117902,0.566085 -1.539751,5.76069 1.609603,0.430224 2.513419,-9.403478 1.94847,0.5208 -0.92838,3.473356 1.779036,0.475512 -1.018954,3.812222 1.779035,0.475512 2.44549,-9.149332 1.863752,0.498155 -3.305938,12.36854 2.033184,0.543443 1.335961,-4.998247 1.694322,0.452868 0.837806,-3.134491 1.694322,0.452869 1.426539,-5.33711 1.948455,0.520796 -3.600299,13.469849 1.948475,0.520797 1.018955,-3.812219 1.863746,0.498153 1.064247,-3.981651 1.440168,0.384938 1.06424,-3.981654 1.77904,0.475511 -1.78884,6.692565 2.28734,0.611376"
+       id="path30173-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.207391px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111.41668,45.963033 -2.18549,0.01626 0.0476,6.39457 -1.69983,0.01264 -0.0283,-3.804365 -1.37606,0.01024 -0.0283,-3.804364 -1.78076,0.01325 -0.0271,-3.642476 -1.86171,0.01384 0.0957,12.870082 -1.8617,0.01385 -0.0379,-5.099467 -1.618872,0.01204 -0.02226,-2.994922 -1.618885,0.01204 -0.03551,-4.775692 -1.942659,0.01445 0.0879,11.817812 -1.780772,0.01325 -0.06498,-8.741943 -1.699816,0.01264 0.02704,3.642476 -1.699818,0.01264 0.02468,3.318702 -1.86171,0.01385 -0.06682,-8.984775 -1.537934,0.01144 0.04094,5.504186 -2.023599,0.01505 -0.01565,-2.104544 -3.237756,0.02408 v 5.647804 h -1.619134 v -2.994784 h -3.640212"
+       id="path30173-1-2" />
+    <g
+       id="g31664"
+       transform="matrix(0.15288319,0,0,0.15288319,11.090687,84.168013)">
+      <path
+         class="cls-1"
+         d="M 4,29.1 H 0.75 A 0.76,0.76 0 0 1 0.18,28.92 0.78,0.78 0 0 1 0,28.35 V 14.86 A 0.75,0.75 0 0 1 0.18,14.29 0.76,0.76 0 0 1 0.75,14.11 H 4 a 0.78,0.78 0 0 1 0.57,0.18 0.75,0.75 0 0 1 0.18,0.57 v 4.51 H 8.2 V 14.86 A 0.75,0.75 0 0 1 8.38,14.29 0.78,0.78 0 0 1 9,14.11 h 3.23 a 0.78,0.78 0 0 1 0.57,0.18 0.75,0.75 0 0 1 0.18,0.57 V 28.35 A 0.65,0.65 0 0 1 12.23,29.1 H 9 A 0.78,0.78 0 0 1 8.43,28.92 0.78,0.78 0 0 1 8.25,28.35 V 23.73 H 4.73 v 4.62 A 0.78,0.78 0 0 1 4.55,28.92 0.78,0.78 0 0 1 4,29.1 Z"
+         id="path31633" />
+      <path
+         class="cls-1"
+         d="M 26.46,28.35 A 0.65,0.65 0 0 1 25.71,29.1 H 22.65 A 0.75,0.75 0 0 1 22.08,28.92 0.78,0.78 0 0 1 21.9,28.35 v -5.5 a 5.69,5.69 0 0 1 0.2,-1.43 14.54,14.54 0 0 1 0.61,-1.9 l 1.81,-4.72 a 1,1 0 0 1 0.39,-0.52 1.15,1.15 0 0 1 0.67,-0.17 h 5.6 a 1.12,1.12 0 0 1 0.66,0.17 1,1 0 0 1 0.38,0.52 L 34,19.52 a 14.74,14.74 0 0 1 0.62,1.9 6.19,6.19 0 0 1 0.2,1.43 v 5.5 A 0.65,0.65 0 0 1 34.07,29.1 H 31 a 0.89,0.89 0 0 1 -0.61,-0.18 0.74,0.74 0 0 1 -0.2,-0.57 v -2.92 h -3.73 z m 1.18,-9.87 -1,3.16 h 3.26 l -1,-3.16 A 0.9,0.9 0 0 0 28.72,18.21 0.3,0.3 0 0 0 28.5,18.13 H 28 a 0.3,0.3 0 0 0 -0.22,0.08 0.9,0.9 0 0 0 -0.14,0.27 z"
+         id="path31635" />
+      <path
+         class="cls-1"
+         d="M 47.69,29.1 H 44.57 A 0.75,0.75 0 0 1 44,28.92 0.78,0.78 0 0 1 43.82,28.35 V 14.86 a 0.65,0.65 0 0 1 0.75,-0.75 h 2.16 a 1.72,1.72 0 0 1 0.68,0.12 1.66,1.66 0 0 1 0.55,0.44 l 4,4.62 v -4.43 a 0.75,0.75 0 0 1 0.18,-0.57 0.76,0.76 0 0 1 0.57,-0.18 h 3.12 a 0.64,0.64 0 0 1 0.75,0.75 v 13.49 a 0.83,0.83 0 0 1 -0.17,0.57 0.79,0.79 0 0 1 -0.58,0.18 H 52.75 A 0.76,0.76 0 0 1 52.18,28.92 0.78,0.78 0 0 1 52,28.35 v -2.56 l -3.56,-4.31 v 6.87 a 0.78,0.78 0 0 1 -0.18,0.57 0.76,0.76 0 0 1 -0.57,0.18 z"
+         id="path31637" />
+      <path
+         class="cls-1"
+         d="m 73.67,29.1 h -7 A 0.79,0.79 0 0 1 66.09,28.92 0.78,0.78 0 0 1 65.92,28.35 V 14.86 a 0.75,0.75 0 0 1 0.17,-0.57 0.79,0.79 0 0 1 0.58,-0.18 h 7 a 6,6 0 0 1 3.86,1 3.91,3.91 0 0 1 1.26,3.21 v 6.49 a 3.94,3.94 0 0 1 -1.26,3.21 6,6 0 0 1 -3.86,1.08 z m -3,-11 v 7.08 h 2.48 a 1,1 0 0 0 0.74,-0.25 1.06,1.06 0 0 0 0.24,-0.77 v -5.08 a 1,1 0 0 0 -0.24,-0.76 1,1 0 0 0 -0.74,-0.24 z"
+         id="path31639" />
+      <path
+         class="cls-1"
+         d="M 95.44,29.1 H 92.07 A 0.65,0.65 0 0 1 91.32,28.35 V 25.68 L 88.14,21.42 A 4.34,4.34 0 0 1 87.5,20.29 5.16,5.16 0 0 1 87.35,18.85 v -4 A 0.64,0.64 0 0 1 88.1,14.1 h 3.2 a 0.65,0.65 0 0 1 0.75,0.75 v 3.41 c 0,0.14 0,0.29 0,0.44 a 1,1 0 0 0 0.17,0.44 l 1,1.49 a 0.69,0.69 0 0 0 0.22,0.27 0.43,0.43 0 0 0 0.28,0.09 h 0.2 a 0.46,0.46 0 0 0 0.29,-0.09 0.79,0.79 0 0 0 0.21,-0.27 l 1,-1.49 a 0.86,0.86 0 0 0 0.17,-0.44 c 0,-0.15 0,-0.3 0,-0.44 v -3.4 a 0.75,0.75 0 0 1 0.18,-0.57 0.76,0.76 0 0 1 0.57,-0.18 h 3.1 a 0.78,0.78 0 0 1 0.57,0.18 0.75,0.75 0 0 1 0.18,0.57 v 4 a 4.69,4.69 0 0 1 -0.17,1.44 4.84,4.84 0 0 1 -0.62,1.13 l -3.2,4.27 v 2.65 a 0.78,0.78 0 0 1 -0.18,0.57 0.79,0.79 0 0 1 -0.58,0.18 z"
+         id="path31641" />
+      <path
+         class="cls-1"
+         d="m 146,29.1 h -3.23 a 0.65,0.65 0 0 1 -0.75,-0.75 V 14.86 a 0.75,0.75 0 0 1 0.18,-0.57 0.78,0.78 0 0 1 0.57,-0.18 h 9.29 a 0.78,0.78 0 0 1 0.57,0.18 0.75,0.75 0 0 1 0.17,0.57 v 2.48 a 0.63,0.63 0 0 1 -0.74,0.74 h -5.31 v 2.17 h 3.62 a 0.78,0.78 0 0 1 0.57,0.18 0.76,0.76 0 0 1 0.18,0.57 v 2.5 a 0.65,0.65 0 0 1 -0.75,0.75 h -3.62 v 4.1 A 0.65,0.65 0 0 1 146,29.1 Z"
+         id="path31643" />
+      <path
+         class="cls-1"
+         d="m 165.35,28.35 a 0.65,0.65 0 0 1 -0.75,0.75 h -3.17 a 0.64,0.64 0 0 1 -0.74,-0.75 v -2.23 a 4.74,4.74 0 0 1 0.16,-1.44 4.54,4.54 0 0 1 0.63,-1.12 l 1.68,-2.27 -1.68,-2.29 a 4,4 0 0 1 -0.64,-1.12 5.16,5.16 0 0 1 -0.15,-1.44 v -1.6 a 0.75,0.75 0 0 1 0.17,-0.57 0.78,0.78 0 0 1 0.57,-0.18 h 3.21 a 0.76,0.76 0 0 1 0.57,0.18 0.75,0.75 0 0 1 0.18,0.57 v 1.43 c 0,0.14 0,0.29 0,0.44 a 0.86,0.86 0 0 0 0.17,0.44 l 0.91,1.31 a 1.19,1.19 0 0 0 0.22,0.26 0.45,0.45 0 0 0 0.28,0.09 h 0.25 a 0.4,0.4 0 0 0 0.27,-0.09 1.56,1.56 0 0 0 0.23,-0.26 l 0.94,-1.31 a 1,1 0 0 0 0.17,-0.44 c 0,-0.15 0,-0.3 0,-0.44 v -1.41 a 0.75,0.75 0 0 1 0.17,-0.57 0.79,0.79 0 0 1 0.58,-0.18 h 3.16 a 0.78,0.78 0 0 1 0.57,0.18 0.75,0.75 0 0 1 0.18,0.57 v 1.6 a 4.69,4.69 0 0 1 -0.17,1.44 4.8,4.8 0 0 1 -0.62,1.12 l -1.69,2.29 1.69,2.25 a 4,4 0 0 1 0.63,1.12 4.74,4.74 0 0 1 0.16,1.44 v 2.23 a 0.65,0.65 0 0 1 -0.75,0.75 h -3.16 A 0.79,0.79 0 0 1 169,28.92 0.78,0.78 0 0 1 168.83,28.35 v -2.06 c 0,-0.14 0,-0.29 0,-0.44 a 1,1 0 0 0 -0.17,-0.44 l -0.92,-1.31 a 1.33,1.33 0 0 0 -0.23,-0.27 0.46,0.46 0 0 0 -0.27,-0.08 H 167 a 0.46,0.46 0 0 0 -0.27,0.08 1.75,1.75 0 0 0 -0.23,0.27 l -0.94,1.31 a 0.94,0.94 0 0 0 -0.16,0.44 3.31,3.31 0 0 0 0,0.44 z"
+         id="path31645" />
+      <path
+         d="m 128.45,17.72 -11,23.12 a 0.4,0.4 0 0 1 -0.75,-0.21 l 2.51,-16.75 -7.69,0.75 a 0.37,0.37 0 0 1 -0.41,-0.5 L 122.12,1 a 0.4,0.4 0 0 1 0.75,0.21 l -2.51,16.79 7.69,-0.75 a 0.36,0.36 0 0 1 0.4,0.47 z"
+         id="path31647" />
+      <path
+         d="m 117.06,41.85 a 1.13,1.13 0 0 1 -0.36,-0.06 1.15,1.15 0 0 1 -0.83,-1.28 l 2.36,-15.74 -6.67,0.66 a 1.25,1.25 0 0 1 -1.11,-0.5 1.13,1.13 0 0 1 -0.1,-1.15 L 121.4,0.66 a 1.2,1.2 0 0 1 2.26,0.67 l -2.36,15.74 6.67,-0.65 a 1.25,1.25 0 0 1 1.11,0.5 1.13,1.13 0 0 1 0.1,1.15 v 0 l -11.05,23.11 a 1.18,1.18 0 0 1 -1.07,0.67 z m 3,-18.87 -2.2,15.02 9.53,-20 -8,0.79 2.26,-15.06 -9.54,20 z m -8.71,0.85 z"
+         id="path31649" />
+    </g>
+    <g
+       id="g32136"
+       transform="matrix(1.0314028,0,0,1.0314028,-35.876193,27.611474)">
+      <g
+         inkscape:label="F.Mask"
+         id="g1171"
+         style="display:inline"
+         transform="translate(117.51653,3.1041944)">
+        <g
+           inkscape:label="Layer 1"
+           id="layer1-6"
+           style="display:inline"
+           transform="matrix(0.17371502,0,0,0.17371502,2.4474261,52.683518)">
+          <text
+             xml:space="preserve"
+             transform="scale(0.26458333)"
+             id="text3529"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';white-space:pre;shape-inside:url(#rect3531);fill:#000000;fill-opacity:1;stroke:none" />
+          <g
+             aria-label="DJK SYNTHESIS"
+             id="text14537"
+             style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:0.264583"
+             inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+             inkscape:export-xdpi="1200"
+             inkscape:export-ydpi="1200" />
+          <g
+             id="g896">
+            <path
+               d="m 11.291351,21.262211 q 0,1.53789 -1.016992,2.530078 -1.0045896,0.979785 -2.5424802,0.979785 H 3.2918398 V 5.3624061 h 4.440039 q 1.550293,0 2.5548832,0.9921875 1.004589,0.9797851 1.004589,2.5176757 z M 9.5674257,21.088578 V 9.0210974 q 0,-0.9549804 -0.6077149,-1.5378906 Q 8.3643983,6.8878943 7.4094179,6.8878943 H 5.0157656 V 23.246585 h 2.2944335 q 1.0045899,0 1.624707,-0.570507 0.6325196,-0.58291 0.6325196,-1.5875 z"
+               id="path841"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 21.151215,23.395414 q 0,0.607714 -0.384473,0.992187 -0.384473,0.384473 -0.992188,0.384473 h -4.514453 q -0.607715,0 -0.992187,-0.384473 -0.384473,-0.384473 -0.384473,-0.992187 v -4.923731 h 1.723926 v 4.774902 h 3.819922 V 5.3624061 h 1.723926 z"
+               id="path843"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 32.350531,24.772074 h -1.897558 l -4.477246,-9.326563 v 9.326563 H 24.251801 V 5.3624061 h 1.723926 v 8.7188479 l 4.067968,-8.7188479 h 1.872754 v 0.1116211 l -4.39043,9.2397458 z"
+               id="path845"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 60.851127,23.395414 q 0,0.607714 -0.384473,0.992187 -0.37207,0.384473 -0.979785,0.384473 h -4.886523 q -0.607715,0 -1.00459,-0.384473 -0.384473,-0.384473 -0.384473,-0.992187 v -4.923731 h 1.723926 v 4.774902 h 4.191992 V 18.620511 L 53.769389,12.146488 Q 53.211283,11.476761 53.211283,10.670609 V 6.7390662 q 0,-0.6077148 0.384473,-0.9921875 0.396875,-0.3844726 1.00459,-0.3844726 h 4.886523 q 0.607715,0 0.979785,0.3844726 0.384473,0.3844727 0.384473,0.9921875 V 11.253519 H 59.127201 V 6.8878943 h -4.191992 v 4.0927737 l 5.382617,6.474023 q 0.533301,0.644922 0.533301,1.451074 z"
+               id="path847"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 71.703177,5.4740272 -2.356445,7.8506838 q -0.446485,1.178222 -1.178223,3.931543 v 7.51582 h -1.723926 v -7.51582 Q 66.27095,16.313675 65.911282,15.271879 65.31597,13.485941 65.266361,13.324711 L 62.909915,5.4740272 q 0,-0.012402 0,-0.1116211 h 1.748731 l 2.666504,9.7110349 2.641699,-9.7110349 h 1.736328 q 0,0.086816 0,0.1116211 z"
+               id="path849"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="M 81.811088,24.772074 H 80.620463 L 75.436283,10.496976 V 24.772074 H 73.811576 V 5.3624061 H 75.10142 L 80.186381,19.389457 V 5.3624061 h 1.624707 z"
+               id="path851"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="M 91.596533,6.8878943 H 88.595166 V 24.772074 H 86.87124 V 6.8878943 H 83.845068 V 5.3624061 h 7.751465 z"
+               id="path853"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 101.74166,24.772074 h -1.72394 v -9.326563 h -4.67568 v 9.326563 H 93.618114 V 5.3624061 h 1.723926 v 8.5328119 h 4.67568 V 5.3624061 h 1.72394 z"
+               id="path855"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 111.2171,24.772074 h -6.37484 V 5.3624061 h 6.30043 v 1.5254882 h -4.57649 v 7.2429687 h 4.16721 v 1.550293 h -4.16721 v 7.565429 h 4.6509 z"
+               id="path857"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 121.47386,23.395414 q 0,0.607714 -0.38447,0.992187 -0.37207,0.384473 -0.97979,0.384473 h -4.88652 q -0.60771,0 -1.00459,-0.384473 -0.38448,-0.384473 -0.38448,-0.992187 v -4.923731 h 1.72393 v 4.774902 h 4.192 v -4.626074 l -5.35782,-6.474023 q -0.55811,-0.669727 -0.55811,-1.475879 V 6.7390662 q 0,-0.6077148 0.38448,-0.9921875 0.39688,-0.3844726 1.00459,-0.3844726 h 4.88652 q 0.60772,0 0.97979,0.3844726 0.38447,0.3844727 0.38447,0.9921875 v 4.5144528 h -1.72392 V 6.8878943 h -4.192 v 4.0927737 l 5.38262,6.474023 q 0.5333,0.644922 0.5333,1.451074 z"
+               id="path859"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 126.34799,24.772074 h -1.72393 V 5.3624061 h 1.72393 z"
+               id="path861"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <path
+               d="m 137.15043,23.395414 q 0,0.607714 -0.38447,0.992187 -0.37207,0.384473 -0.97979,0.384473 h -4.88652 q -0.60772,0 -1.00459,-0.384473 -0.38447,-0.384473 -0.38447,-0.992187 v -4.923731 h 1.72392 v 4.774902 h 4.19199 v -4.626074 l -5.35781,-6.474023 q -0.5581,-0.669727 -0.5581,-1.475879 V 6.7390662 q 0,-0.6077148 0.38447,-0.9921875 0.39687,-0.3844726 1.00459,-0.3844726 h 4.88652 q 0.60772,0 0.97979,0.3844726 0.38447,0.3844727 0.38447,0.9921875 V 11.253519 H 135.4265 V 6.8878943 h -4.19199 v 4.0927737 l 5.38262,6.474023 q 0.5333,0.644922 0.5333,1.451074 z"
+               id="path863"
+               style="font-size:25.4px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';display:inline;stroke-width:0.264583" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:1"
+               id="rect30589"
+               width="10.798377"
+               height="24.898739"
+               x="36.986992"
+               y="2.3242922"
+               ry="3.7765038"
+               rx="1.0709134"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:1"
+               id="rect30591"
+               width="10.619891"
+               height="0.13386418"
+               x="37.12085"
+               y="15.264497"
+               rx="1.0709143"
+               ry="0.13386418"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:1.22778"
+               id="rect30593-9"
+               width="0.76789606"
+               height="6.0192227"
+               x="39.999596"
+               y="15.652398"
+               rx="1.6754107"
+               ry="0.12898324"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:1.22778"
+               id="rect30593-9-3"
+               width="0.76789606"
+               height="6.0192227"
+               x="44.058167"
+               y="15.652398"
+               rx="1.6754107"
+               ry="0.12898324"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.492951"
+               id="rect30831"
+               width="0.0034913525"
+               height="5.6644521"
+               x="40.364891"
+               y="21.396978"
+               rx="0.23700103"
+               ry="0.14698604"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.492951"
+               id="rect30831-6"
+               width="0.0034913525"
+               height="5.6644521"
+               x="44.466736"
+               y="21.443033"
+               rx="0.23700103"
+               ry="0.14698604"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.407931"
+               id="rect30979"
+               width="4.2742205"
+               height="0.21458057"
+               x="-13.66554"
+               y="39.579872"
+               rx="0.95424527"
+               ry="0"
+               transform="rotate(-90)"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.276697"
+               id="rect30979-4"
+               width="1.9292063"
+               height="0.21872637"
+               x="38.723061"
+               y="12.561788"
+               rx="0.43070686"
+               ry="0.064311951"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.407931"
+               id="rect30979-1"
+               width="4.2742205"
+               height="0.21458057"
+               x="-13.66554"
+               y="42.440315"
+               rx="0.95424527"
+               ry="0"
+               transform="rotate(-90)"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.276697"
+               id="rect30979-4-8"
+               width="1.9292063"
+               height="0.21872637"
+               x="41.583504"
+               y="9.9159555"
+               rx="0.43070686"
+               ry="0.064311951"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.407931"
+               id="rect30979-1-3"
+               width="4.2742205"
+               height="0.21458057"
+               x="-13.66554"
+               y="45.300797"
+               rx="0.95424527"
+               ry="0"
+               transform="rotate(-90)"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.276697"
+               id="rect30979-4-8-9"
+               width="1.9292063"
+               height="0.21872637"
+               x="44.444"
+               y="11.503453"
+               rx="0.43070686"
+               ry="0.064311951"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <circle
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+               id="path31839"
+               cy="6.2286654"
+               cx="40.132835"
+               r="1.7179236"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect32912"
+               width="0.078880221"
+               height="0.85190642"
+               x="23.53698"
+               y="33.549484"
+               rx="0.80818832"
+               transform="rotate(-45.461043)"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <circle
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+               id="path31839-8"
+               cy="6.2286654"
+               cx="44.366257"
+               r="1.7179236"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <rect
+               style="fill:none;fill-opacity:0.681452;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect32912-5"
+               width="0.078880221"
+               height="0.85190642"
+               x="-44.478096"
+               y="-5.303596"
+               rx="0.80818832"
+               transform="rotate(-179.59041)"
+               inkscape:export-filename="C:\Users\nosho\Documents\MIDI Controllers\logo-test.png"
+               inkscape:export-xdpi="1200"
+               inkscape:export-ydpi="1200" />
+            <text
+               xml:space="preserve"
+               style="font-size:10.5833px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:0.264583"
+               x="41.040443"
+               y="18.471682"
+               id="text6128"><tspan
+                 sodipodi:role="line"
+                 id="tspan6126"
+                 style="stroke-width:0.264583"
+                 x="41.040443"
+                 y="18.471682"> </tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
